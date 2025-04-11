@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "id": "2",
+      "title": "Second Blog Post",
+      "body": "This is the body of the second blog post.",
+      "author": "Luigi"
+    },
+    {
+      "id": "eefc",
+      "title": " hello react",
+      "body": " abcdefghijklml",
+      "author": "yoshi"
+    },
+    {
+      "id": "94c2",
+      "title": "welcome react",
+      "body": " absqwhfcuwheuvyf",
+      "author": "mario"
+    },
+    {
+      "id": "c111",
+      "title": " Create blog",
+      "body": " Let me know if you want me to check the full code or connect the blog creation to a backend like json-server!",
+      "author": "yoshi"
+    },
+    {
+      "id": "82e8",
+      "title": " Learn JavaScript",
+      "body": " JavaScript is a versatile language",
+      "author": "yoshi"
+    }
+  ]
+}
